@@ -1,0 +1,1 @@
+export { GuidesServiceFactory } from './GuidesServiceFactory';
